@@ -12,6 +12,7 @@
 		B1DF62181DB0609200D220C5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1DF62161DB0609200D220C5 /* Main.storyboard */; };
 		B1DF621A1DB0609200D220C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1DF62191DB0609200D220C5 /* Assets.xcassets */; };
 		B1DF621D1DB0609200D220C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1DF621B1DB0609200D220C5 /* LaunchScreen.storyboard */; };
+		B1DF62251DB8286B00D220C5 /* grumdrig-emoji-list-b3c1687fdd64 in Resources */ = {isa = PBXBuildFile; fileRef = B1DF62241DB8286B00D220C5 /* grumdrig-emoji-list-b3c1687fdd64 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B1DF62191DB0609200D220C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1DF621C1DB0609200D220C5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1DF621E1DB0609200D220C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1DF62241DB8286B00D220C5 /* grumdrig-emoji-list-b3c1687fdd64 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "grumdrig-emoji-list-b3c1687fdd64"; path = "../../../../Downloads/grumdrig-emoji-list-b3c1687fdd64"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 			children = (
 				B1DF62111DB0609200D220C5 /* Emoji Dictionary */,
 				B1DF62101DB0609200D220C5 /* Products */,
+				B1DF62241DB8286B00D220C5 /* grumdrig-emoji-list-b3c1687fdd64 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B1DF62251DB8286B00D220C5 /* grumdrig-emoji-list-b3c1687fdd64 in Resources */,
 				B1DF621D1DB0609200D220C5 /* LaunchScreen.storyboard in Resources */,
 				B1DF621A1DB0609200D220C5 /* Assets.xcassets in Resources */,
 				B1DF62181DB0609200D220C5 /* Main.storyboard in Resources */,
